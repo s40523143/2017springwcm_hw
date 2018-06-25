@@ -58,15 +58,6 @@
 <v t="yen.20161011125115.1" a="E"><vh>第五頁</vh>
 <v t="yen.20161016011920.1"><vh>第五頁內容</vh></v>
 </v>
-<v t="yen.20161011143808.1" a="E"><vh>第六頁</vh>
-<v t="yen.20161011143808.2"><vh>第六頁內容</vh></v>
-</v>
-<v t="yen.20161011145156.1" a="E"><vh>第七頁</vh>
-<v t="yen.20161011145156.2"><vh>第七頁內容</vh></v>
-</v>
-<v t="yen.20161016012809.1" a="E"><vh>第八頁</vh>
-<v t="yen.20161016012809.2"><vh>第八頁內容</vh></v>
-</v>
 </v>
 </v>
 </v>
@@ -198,7 +189,7 @@ print("hello")
 <t tx="amd.20161004083800.2">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;    
-40523101的網際內容管理課程
+40523143的網際內容管理課程
 &lt;/title&gt;
     &lt;meta name="description" content="Team of six in nfu web content manage "&gt;
     &lt;meta name="author" content="WCM6"&gt;
@@ -277,18 +268,11 @@ print("hello")
 
 						
 </t>
-<t tx="amd.20161004095719.2">#宜欣的期末報告
+<t tx="amd.20161004095719.2">#期末報告
 
-##四設一甲 40523101
 &lt;small&gt;
-Created by [40523101](https://github.com/s40523101)
+四設二甲 40523143 蕭志安
 &lt;/small&gt;
-
-[Blog](blog/index.html)&lt;br/&gt;
-[Wiki](https://github.com/s40523101/2017springwcm_g6/wiki) &lt;br/&gt;
-[作業倉儲](https://github.com/s40523101/2017springwcm_hw) &lt;br/&gt;
-[小組倉儲](https://github.com/s40523101/2017springwcm_g6) &lt;br/&gt;
-[小組Fossil SCM倉儲](https://mde2a2.kmol.info/wcmg6/home) &lt;br/&gt;
 
 </t>
 <t tx="amd.20161004104820.1">&lt;section&gt;
@@ -1021,21 +1005,11 @@ Created by [WCM6](https://github.com/s40523136/2017springwcm_g6)
 [作業倉儲](https://github.com/s40523122/2016fallcp_hw)
 
 </t>
-<t tx="leo.20170623021326.1">#設定網路ipv6
+<t tx="leo.20170623021326.1">##v-rep
 &lt;br/&gt;
-Ubuntu 作業系統
-&lt;br/&gt;
-1.請按起始鍵搜尋 terminal，啟動 Terminal 操作介面
-&lt;br/&gt;
-2.sudo vi /etc/resolv.conf 指令進入設
-定 DNS 畫面
-&lt;br/&gt;
-3.行 sudo vi /etc/network/interfaces 指令進入設
-定 IP 介面
-&lt;br/&gt;
-4.重新啟動網路服務，於 terminal 操作介面執行 sudo
-&lt;br/&gt;
-/etc/init.d/networking/restart。
+revolute , dummy , car
+
+
 </t>
 <t tx="leo.20170623023812.1">&lt;section data-markdown&gt;
     &lt;script type=''text/template''&gt;
@@ -1043,70 +1017,32 @@ Ubuntu 作業系統
    &lt;/script&gt;
    
    &lt;/section&gt;</t>
-<t tx="leo.20170623023858.1">設定網路ipv6Windows 作業系統
+<t tx="leo.20170623023858.1">##pyslvs
 &lt;br/&gt;
-[ipv6 2001:288:6004:17::7]
+連桿可以轉至solvespace
+&lt;br/&gt;</t>
+<t tx="leo.20170623024705.1">##onshape
 &lt;br/&gt;
-2001:288:6004::1:2學校DNS
+自訂特徵 , 分支
+&lt;br/&gt;</t>
+<t tx="leo.20170623024724.1">##這學期用到的軟體 
 &lt;br/&gt;
-2001:b000:168::1中華電信
+gitbook
 &lt;br/&gt;
-1.網路和網際網路
+github
 &lt;br/&gt;
-2.變更介面卡設定
-&lt;br/&gt;
-3.區域連線
-&lt;br/&gt;
-4.網際網路通訊協定第六版
-&lt;br/&gt;
-5.手動設定 IPv6 位址&lt;a href="https://raw.githubusercontent.com/s40523101/2017springwcm_hw/gh-pages/jpg/%E6%9C%AA%E5%91%BD%E5%90%8D.png"&gt;&lt;img src="https://raw.githubusercontent.com/s40523101/2017springwcm_hw/gh-pages/jpg/%E6%9C%AA%E5%91%BD%E5%90%8D.png"width="350" height="350" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
-<t tx="leo.20170623024705.1">#在nginx上redecorate
-&lt;br/&gt;
-從hppts跳轉stunnel hppts
-&lt;br/&gt;
-gedie index.nginx.debian.html
-&lt;br/&gt;
-會跑出來程式
-&lt;br/&gt;
-Edit ngnix 當標題 fomats headings var/www/html/index 貼原始碼 格式html
-&lt;br/&gt;
-跳轉1.html跳轉meta
-&lt;br/&gt;
-2.java
-&lt;br/&gt;
-3. https://8.mde.tw 使用者可點</t>
-<t tx="leo.20170623024724.1">#如何啟動CMsimpy
-&lt;br/&gt;
-1.先下載vdi
-&lt;br/&gt;
-2.利用ubuntu建立
-&lt;br/&gt;
-3.在ubuntu裡面查ip if config
-&lt;br/&gt;
-cat wsgi.py 
-&lt;br/&gt;
-就可開啟 CMsimply的網頁
-&lt;br/&gt;
-就可以摸索網頁的使用
-&lt;br/&gt;
-config 改密碼
-
-</t>
+youtube
+&lt;br/&gt;</t>
 <t tx="leo.20170623024725.1">&lt;section data-markdown&gt;
     &lt;script type=''text/template''&gt;
 @others
    &lt;/script&gt;
    
    &lt;/section&gt;</t>
-<t tx="leo.20170623041607.1">#製作網路線
+<t tx="leo.20170623041607.1">##gitbook
 &lt;br/&gt;
-首先準備好材料: 8蕊網路線 RJ-45接頭 剪刀 壓線鉗
-&lt;br/&gt;
-把網路線的外層塑膠殼剪開 裡面會有8條有顏色的線 將他們整理好並且剪到一樣長 
-&lt;br/&gt;
-網路線有2種接法
-&lt;br/&gt;
-&lt;a href="https://raw.githubusercontent.com/s40523101/2017springwcm_hw/gh-pages/jpg/%E6%9C%AA%E5%91%BD%E5%90%8D.jpg"&gt;&lt;img src="https://raw.githubusercontent.com/s40523101/2017springwcm_hw/gh-pages/jpg/%E6%9C%AA%E5%91%BD%E5%90%8D.jpg"width="350" height="350" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+利用gitbook打每週報告
+&lt;br/&gt;</t>
 <t tx="leo.20170623041608.1">&lt;section data-markdown&gt;
     &lt;script type=''text/template''&gt;
 @others
@@ -1119,15 +1055,10 @@ config 改密碼
    &lt;/script&gt;
    
    &lt;/section&gt;</t>
-<t tx="yen.20161011122601.1">
+<t tx="yen.20161011122601.1">##github
 &lt;br/&gt;
-#兩種規格T568A及T586B
-&lt;br/&gt;
-一般傳輸用網路線 (兩端的網路頭皆為以下接法) 白橙、橙、白綠、藍、白藍、綠、白棕、棕 
-&lt;br/&gt;
-跳接法
-&lt;br/&gt;
-兩台電腦資料對傳 用色對規則 (一頭以正常傳輸色對接法、另一頭則為以下接法) 白綠、綠、白橙、藍、白藍、橙、白棕、棕 </t>
+利用github創建倉儲 , 與組員形成分支,分工合作完成每週作業
+&lt;br/&gt;</t>
 <t tx="yen.20161011122932.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -1135,43 +1066,6 @@ config 改密碼
 @others
 &lt;/section&gt;				
 </t>
-<t tx="yen.20161011143808.1">&lt;section&gt;
-@others
-&lt;/section&gt;	</t>
-<t tx="yen.20161011143808.2">建立UBUNTU虛擬主機建立nginx
-&lt;br/&gt;
-sudo apt update
-&lt;br/&gt;
-sudo rm /var/lib/dpkg/lock
-&lt;br/&gt; 
-sudo apt install nginx 安裝nginx 安裝完成會有3W
-&lt;br/&gt;
-ifconfig 
-&lt;br/&gt;
-cd /var/www/htm
-&lt;br/&gt;l
-ls -l
-&lt;br/&gt;
-sudo vi index.nginx-debian.html 就可更改
-&lt;br/&gt;
-總結:下載對應的vdi虛擬檔
-&lt;br/&gt;
-啟動設定橋接網路進來做update安裝nginx
-
-</t>
-<t tx="yen.20161011145156.1">&lt;section&gt;
-@others
-&lt;/section&gt;	</t>
-<t tx="yen.20161011145156.2">心得這學期接觸到網際網路的應用
-&lt;br/&gt; 
-也更了解虛擬主機的應用
-&lt;br/&gt; 
-以及動手做接網路線
-&lt;br/&gt; 
-在接網路線的時候我們這組是第一個做好的
-&lt;br/&gt; 
-讓我感到很大的成就感
-&lt;br/&gt; </t>
 <t tx="yen.20161016004633.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1182,25 +1076,10 @@ sudo vi index.nginx-debian.html 就可更改
    &lt;/script&gt;
    
    &lt;/section&gt;</t>
-<t tx="yen.20161016011920.1">拆裝主機板
-&lt;br/&gt;
-要先拔復活卡
-&lt;br/&gt;
-拔RAM 把兩台電腦的RAM合為一台
-&lt;br/&gt;
-拔硬碟裝到另一台
-&lt;br/&gt;
-拔電池
-&lt;br/&gt;
-把硬碟插電源
-&lt;br/&gt;
-在安裝Ubuntu
-&lt;a href="https://raw.githubusercontent.com/s40523101/2017springwcm_hw/gh-pages/jpg/S_6280151959520.jpg"&gt;&lt;img src="https://raw.githubusercontent.com/s40523101/2017springwcm_hw/gh-pages/jpg/S_6280151959520.jpg"width="350" height="350" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
-<t tx="yen.20161016012809.1">&lt;/section&gt;
+<t tx="yen.20161016011920.1">#自評成績
+##75分
 
-@others
 </t>
-<t tx="yen.20161016012809.2"></t>
 <t tx="yen.20161016023122.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1208,17 +1087,17 @@ sudo vi index.nginx-debian.html 就可更改
 &lt;/section&gt;
 
 </t>
-<t tx="yen.20161016023122.2">#這學期需有的軟體 
+<t tx="yen.20161016023122.2">##這學期用到的軟體 
 &lt;br/&gt;
-tiny2017_1GB.7z
+ONSHAPE
 &lt;br/&gt;
-Ubuntu 16.04
+V-rep
 &lt;br/&gt;
-vdi
+pyslvs
 &lt;br/&gt;
-Virtual Box
+solvespace
 &lt;br/&gt;
-到140.130.17/public網站下載</t>
+</t>
 <t tx="yen.20161022111056.1">@language python
 import os
 import subprocess
